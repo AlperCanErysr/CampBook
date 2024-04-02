@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		364B9AB92BBC1E3300576256 /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 364B9AB82BBC1E3300576256 /* DetailsVC.swift */; };
 		36C2E1172BBB2F8900125C3D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C2E1162BBB2F8900125C3D /* AppDelegate.swift */; };
 		36C2E1192BBB2F8900125C3D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C2E1182BBB2F8900125C3D /* SceneDelegate.swift */; };
 		36C2E11B2BBB2F8900125C3D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36C2E11A2BBB2F8900125C3D /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		364B9AB82BBC1E3300576256 /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
 		36C2E1132BBB2F8900125C3D /* CampBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CampBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36C2E1162BBB2F8900125C3D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		36C2E1182BBB2F8900125C3D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				36C2E1162BBB2F8900125C3D /* AppDelegate.swift */,
 				36C2E1182BBB2F8900125C3D /* SceneDelegate.swift */,
 				36C2E11A2BBB2F8900125C3D /* ViewController.swift */,
+				364B9AB82BBC1E3300576256 /* DetailsVC.swift */,
 				36C2E11C2BBB2F8900125C3D /* Main.storyboard */,
 				36C2E1222BBB2F8A00125C3D /* Assets.xcassets */,
 				36C2E1242BBB2F8A00125C3D /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				36C2E1212BBB2F8900125C3D /* CampBook.xcdatamodeld in Sources */,
 				36C2E1172BBB2F8900125C3D /* AppDelegate.swift in Sources */,
 				36C2E1192BBB2F8900125C3D /* SceneDelegate.swift in Sources */,
+				364B9AB92BBC1E3300576256 /* DetailsVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
